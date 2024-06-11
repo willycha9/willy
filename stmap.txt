@@ -8,8 +8,8 @@
 
 
 <url>
-  <loc>https://stkippamanetalino.ac.id/wp-admin/xgacor/</loc>
-  <lastmod>2024-04-01T07:17:06+00:00</lastmod>
+  <loc>https://jdih-dprd.kendalkab.go.id/file/a-maxwin/</loc>
+  <lastmod>2024-06-11T07:17:06+00:00</lastmod>
 </url>
 
 
